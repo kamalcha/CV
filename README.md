@@ -1,3 +1,3 @@
 # Demo
 
-https://optimistic-mayer-c390b8.netlify.app/
+https://kamalcha.github.io/CV/index.html
