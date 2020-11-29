@@ -17,7 +17,7 @@ const Awards = () => {
     <Title>Awards</Title>
     <ListGroup variant="flush">
       <ListGroup.Item>
-        <Icon.Award size={16} /> CSS Design Award (lupa taunnya)
+        <Icon.Award size={16} /> CSS Design Award (lupa tahun berapa)
       </ListGroup.Item>
     </ListGroup>
       </div>
